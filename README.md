@@ -1,1 +1,1 @@
-# Here i would place my works and projects in ML
+# Here you can see wy projects while studying at the ISP RAS department
