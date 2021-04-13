@@ -1,1 +1,1 @@
-# Here you can see wy projects while studying at the ISP RAS department
+# Here you can see my projects while studying at the ISP RAS department
