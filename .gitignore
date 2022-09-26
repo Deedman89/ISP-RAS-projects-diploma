@@ -5,5 +5,5 @@
 *.json
 *.odp
 *.pptx
-examples/
+faster_r_cnn/examples/
 datasets/
